@@ -72,7 +72,7 @@ pip install requests
 
  Video Demo
 
-🎥 Watch my YouTube walkthrough here: [**Click to Watch**](YOUR_VIDEO_LINK)
+🎥 Watch my YouTube walkthrough here: [Click to Watch](https://youtu.be/wrvVy_3yIh8)
 
 
 Notes
