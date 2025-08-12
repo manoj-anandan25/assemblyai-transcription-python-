@@ -84,5 +84,3 @@ Notes
 * AssemblyAI offers many more features (summarization, sentiment analysis, topic detection) — check their [API docs](https://www.assemblyai.com/docs/).
 
 
-Do you want me to also **add an example `main.py` file link and GitHub badge** so it looks more professional for your video viewers? That would make it stand out.
-```
