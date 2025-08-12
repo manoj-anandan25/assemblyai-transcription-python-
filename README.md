@@ -10,7 +10,7 @@ The script uses the **AssemblyAI API** with Python’s `requests` library.
 ---
 Video Demo
 
-Watch my YouTube walkthrough here: [Click to Watch](https://youtu.be/wrvVy_3yIh8)
+Watch my YouTube walkthrough here: [Click to Watch](https://youtu.be/1gGsAqEORME)
 ---
 ---
 
