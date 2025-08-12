@@ -8,6 +8,11 @@ This project demonstrates how to:
 The script uses the **AssemblyAI API** with Python’s `requests` library.
 
 ---
+Video Demo
+
+Watch my YouTube walkthrough here: [Click to Watch](https://youtu.be/wrvVy_3yIh8)
+---
+---
 
  Features
 - Upload local `.mp3` or `.wav` audio files
@@ -70,9 +75,7 @@ pip install requests
 
 ---
 
- Video Demo
-
-🎥 Watch my YouTube walkthrough here: [Click to Watch](https://youtu.be/wrvVy_3yIh8)
+ 
 
 
 Notes
