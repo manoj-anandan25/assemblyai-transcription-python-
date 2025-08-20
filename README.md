@@ -1,4 +1,4 @@
- Audio Transcription with AssemblyAI (Python)
+## Audio Transcription with AssemblyAI (Python)
 
 This project demonstrates how to:
 1. Upload an audio file to [AssemblyAI](https://www.assemblyai.com/)  
