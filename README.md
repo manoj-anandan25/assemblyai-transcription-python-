@@ -1,5 +1,4 @@
 ## Audio Transcription with AssemblyAI (Python)
-fjrbjf
 frngik
 daff
 gtukne
