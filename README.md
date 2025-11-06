@@ -1,7 +1,6 @@
 nfnhfbddjmabjh
 jhfbnfg
 rjfnhbhb
-j4fywvbg
 ## Audio Transcription with AssemblyAI (Python)
 
 This project demonstrates how to:
