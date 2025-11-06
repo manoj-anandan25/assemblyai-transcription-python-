@@ -1,5 +1,4 @@
 nfnhfbddjmabjh
-jhfbnfg
 
 ## Audio Transcription with AssemblyAI (Python)
 
